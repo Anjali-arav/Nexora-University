@@ -1,0 +1,6 @@
+{
+  "name": "Nexora University Platform",
+  "description": "A premium academic platform for Nexora University where students can explore courses, view campus details, track achievements, submit applications, and access their dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
